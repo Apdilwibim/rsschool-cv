@@ -11,7 +11,8 @@ The one who makes no mistake does nothing. The people around me have repeatedly 
  * BEM
  * JS (junior)
  * Git
+ * Gulp
 5. https://github.com/Apdilwibim/Weather/blob/master/js/script.js
-6. [Weather](https://apdilwibim.github.io/Weather/), [Fusion](https://apdilwibim.github.io/Fusion/)
+6. [Weather](https://apdilwibim.github.io/Weather/), [Fusion](https://apdilwibim.github.io/Fusion/), [Sedona](https://apdilwibim.github.io/Sedona/)
 7. Html academy, course Lushchenko, all kinds of self-study, 3rd year of college, specialty *logistics*.
 8. I am constantly striving to improve my English. Self-study, school curriculum training.
