@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+p {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: rgba(128, 128, 128, 0.3);
+    border-radius: 20px;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.my-photo {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
